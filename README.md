@@ -1,6 +1,6 @@
 <h1>Enhancing E-learning Integrity through Fraud Detection Technologies using AI!</h1>
 
-📑 Overview
+<h2>📑 Overview</h2>
 
 Online assessments in e-learning platforms face growing threats from cheating and fraudulent activities, undermining the credibility of digital education. Malicious actors exploit vulnerabilities in remote proctoring systems to bypass security measures, compromising the fairness of exams and certifications. Our research project aims to develop a comprehensive AI-driven fraud detection system that enhances the integrity of online assessments through multimodal monitoring and advanced pattern recognition.
 
@@ -20,7 +20,8 @@ This multi-layered detection system is designed to adapt across various e-learni
 
 The solution is expected to significantly reduce academic dishonesty in online assessments, fostering trust in e-learning and supporting institutions in maintaining academic integrity. Commercialization plans include tiered packages (Bronze, Silver, Gold) tailored to different educational needs, from individual instructors to large universities.
 
-🔍 Research Problem
+<h2>🔍 Research Problem</h2>
+
 The rapid expansion of e-learning platforms has revolutionized education delivery, but has also introduced significant challenges in maintaining assessment integrity. Online examination systems are particularly vulnerable to sophisticated cheating methods that compromise academic credibility. Current proctoring solutions fail to adequately address these challenges due to:
 
 Prevalence of Digital Cheating: Increasingly sophisticated methods including screen sharing, virtual machines, and AI-assisted cheating tools
@@ -43,14 +44,16 @@ Scales effectively across different institutional needs
 
 The growing sophistication of cheating methods coupled with the limitations of current solutions threatens to undermine the value of online qualifications, necessitating an AI-driven approach that can restore trust in digital assessments while respecting learner privacy.
 
-🏆 Team Registry
+<h2>🏆 Team Registry</h2>
+
 Name with initials	Registration Number	Contact Phone Number	Email	Badge
 Fernando W.W.S.A	IT21314360	0767978321	it21314360@my.sliit.lk	💬 LEADER .*
 Perera K.Y.S	IT21334856	0703676505	it21334856@my.sliit.lk	💬 MEMBER ✔️
 Senanayake S.V	IT21815164	0779725352	it21815164@my.sliit.lk	💬 MEMBER ✔️
 Pathirana A.P.C.G	IT21816468	0758031852	it21816468@my.sliit.lk	💬 MEMBER ✔️
 
-💡 Proposed Solution
+<h2>💡 Proposed Solution</h2>
+
 Our solution is a comprehensive AI-driven system that combines multimodal monitoring, behavioral analysis, and explainable AI to detect academic dishonesty in e-learning environments with high accuracy. The system utilizes:
 
 Multimodal Detection Framework: Integrating screen activity, keystroke dynamics, voice, and visual monitoring
@@ -62,7 +65,8 @@ Explainable Decision-Making: Providing transparent reasoning for flagged inciden
 
 The system addresses key limitations of traditional proctoring tools by incorporating real-time behavioral analysis alongside content monitoring while maintaining ethical AI practices.
 
-🔍 Project Components
+<h2>🔍 Project Components</h2>
+
 1. Secure Screen & Keystroke Monitoring (Perera K.Y.S)
 This component develops a robust system for detecting unauthorized activities during online exams by:
 
@@ -131,13 +135,15 @@ What similarity thresholds reliably indicate collusion?
 
 How can we distinguish collaboration from coincidental similarity?
 
-🛠️ Technology Stack
+<h2>🛠️ Technology Stack</h2>
+
 Programming Languages: Python, JavaScript
 Computer Vision: OpenCV, YOLO, MediaPipe
 Behavior Analysis: PyTorch, TensorFlow
 Voice Processing: Librosa, SpeechRecognition
 
-🎯 Objectives
+<h2>🎯 Objectives</h2>
+
 Main Objective
 Develop a comprehensive AI-powered system to detect and prevent academic dishonesty in online learning environments
 
@@ -155,7 +161,8 @@ Ensure privacy-preserving implementation with explainable AI decision-making
 
 Design a scalable solution adaptable to various e-learning platforms
 
-🌐 Target Audience and Applications
+<h2>🌐 Target Audience and Applications</h2>
+
 Educational Institutions:
 
 Universities and colleges conducting online examinations
@@ -188,7 +195,8 @@ Explainable AI: SHAP, LIME
 Development Tools: Jupyter Notebook, VS Code, Git
 Edge Computing: ONNX Runtime, TensorFlow Lite
 
-📚 References
+<h2>📚 References</h2>
+
 1. A. Smith and P. Torres, "Object detection advances: Evolving prohibited item identification," Springer AI Vision, vol. 15, no. 4, pp. 122–134, Dec. 2023.
 
 2. L. Martinez and R. Gomez, "Collaborative cheating detection using multi-user analysis," Springer AI Ethics, vol. 10, no. 2, pp. 89–101, May 2021.
