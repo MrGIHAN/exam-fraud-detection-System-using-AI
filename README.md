@@ -1,3 +1,5 @@
+Github repository link: https://github.com/MrGIHAN/exam-fraud-detection-System-using-AI.git
+
 # 🎓 Enhancing E-learning Integrity through AI-Driven Fraud Detection
 
 ## 📑 Overview
@@ -85,7 +87,7 @@ This integrated approach overcomes the limitations of traditional proctoring by 
 
 ---
 
-### 4️⃣ Collaborative Cheating Detection  
+### 4️⃣ Real-Time Detection (AI or Human) during exams with report generation  
 **Owner:** *Senanayake S.V*
 
 - Analyzes semantic similarity of written responses.
