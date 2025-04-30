@@ -1,7 +1,3 @@
-Here's a polished and well-structured version of your `README.md` file suitable for GitHub or project documentation. It includes improved formatting, consistency, and clarity while retaining your original content and technical depth:
-
----
-
 # 🎓 Enhancing E-learning Integrity through AI-Driven Fraud Detection
 
 ## 📑 Overview
