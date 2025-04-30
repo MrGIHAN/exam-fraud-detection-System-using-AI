@@ -1,6 +1,7 @@
-Enhancing E-learning Integrity through Fraud Detection Technologies using AI!
+<h1>Enhancing E-learning Integrity through Fraud Detection Technologies using AI!</h1>
 
 📑 Overview
+
 Online assessments in e-learning platforms face growing threats from cheating and fraudulent activities, undermining the credibility of digital education. Malicious actors exploit vulnerabilities in remote proctoring systems to bypass security measures, compromising the fairness of exams and certifications. Our research project aims to develop a comprehensive AI-driven fraud detection system that enhances the integrity of online assessments through multimodal monitoring and advanced pattern recognition.
 
 The project addresses the limitations of traditional proctoring methods by proposing an integrated approach that combines:
