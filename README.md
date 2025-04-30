@@ -46,6 +46,12 @@ This integrated approach overcomes the limitations of traditional proctoring by 
 
 ---
 
+## 🧭 System Diagram Structure
+
+![image](https://github.com/user-attachments/assets/82ec5816-60fb-4399-a9d8-b26598d684ac)
+
+---
+
 ## 🧩 Project Components
 
 ### 1️⃣ Secure Screen & Keystroke Monitoring  
